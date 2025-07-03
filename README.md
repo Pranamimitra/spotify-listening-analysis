@@ -4,10 +4,10 @@ A data-driven project analyzing personal Spotify listening patterns using Python
 
 ## Features
 
-- Top artists and songs breakdown
-- Listening trends by time and day
-- Data cleaning and visualization using Python
-- Optional: Spotify API enrichment and recommendations
+✅ Analyze top artists, songs, and total listening time  
+✅ Identify peak listening hours and patterns over months  
+✅ Visualize trends using bar charts, heatmaps, and line plots  
+✅ (Optional) Enrich data with Spotify API for genres and recommendations 
 
 ## Tech Stack
 
@@ -18,11 +18,10 @@ A data-driven project analyzing personal Spotify listening patterns using Python
 
 ## Project Structure
 
-data/ - Raw and processed datasets
-notebooks/ - Step-by-step analysis notebooks
-src/ - Reusable Python functions
-reports/ - Final reports and visuals
-
+- `data/` - Raw and cleaned Spotify history files
+- `notebooks/` - Jupyter notebooks for cleaning, EDA, and visual insights
+- `reports/` - Final reports, charts, and presentation-ready material
+- `src/` - Reusable Python functions for data cleaning and visualization
 
 ## Getting Started
 
