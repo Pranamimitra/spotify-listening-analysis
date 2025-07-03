@@ -43,6 +43,11 @@ pip install -r requirements.txt
 - 🕒 **Time-Based Trend Analysis**  
   Tracks your listening behavior over time (daily, monthly trends).
 
+## Future Work
+- Spotify API integration
+- Personalized recommendations
+- Dashboard with Streamlit
+  
 ---
 
 > *This project is for learning, portfolio enhancement, and demonstration purposes only.*
