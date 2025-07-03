@@ -30,8 +30,9 @@ reports/ - Final reports and visuals
 git clone https://github.com/your-username/spotify-listening-analysis.git
 cd spotify-listening-analysis
 pip install -r requirements.txt
+```
 
-## 📊 **Example Outputs**
+## Example Outputs
 
 - 🎤 **Top Artists Bar Chart**  
   Visualizes your most listened-to artists based on play count.
