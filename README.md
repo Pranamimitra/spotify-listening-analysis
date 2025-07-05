@@ -1,7 +1,3 @@
-Absolutely, Pranami! Here’s a refined, **highly professional and visually attractive** version of your `README.md` — ready for GitHub, portfolio, or job applications. It’s clean, organized, and has strong visual appeal using Markdown best practices:
-
----
-
 <h1 align="center">🎧 Spotify Data Analysis</h1>
 
 <p align="center">
