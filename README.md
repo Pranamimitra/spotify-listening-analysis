@@ -48,8 +48,23 @@ pip install -r requirements.txt
 ### 2️⃣ Prepare Your Spotify Data
 
 * Visit the [Spotify Privacy Portal](https://www.spotify.com/account/privacy/)
-* Request your data export and download the `.zip` file
-* Extract relevant `.json` files (e.g., `StreamingHistory.json`, `Playlist.json`, `SearchQueries.json`) into the `data/` folder
+* Request your data export and download the `.zip` file (Spotify may take a few days to prepare)
+* Extract the following `.json` files into the `data/` folder:
+
+```
+spotify-data-analysis/
+├── data/
+│   ├── StreamingHistory0.json      # Your listening history
+│   ├── Playlist1.json               # Your saved playlists
+│   ├── SearchQueries.json           # Your Spotify search history
+│   └── ... (other Spotify data files)
+```
+
+⚠️ **Important:**
+
+* File names may vary slightly based on your Spotify export — adjust script paths if needed
+* Only use your personal data; this project is designed for private, offline analysis
+* Do **NOT** share your `.json` data publicly — outputs like charts are safe to share if they don't reveal sensitive info
 
 ---
 
